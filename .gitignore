@@ -1,0 +1,7 @@
+target/
+.DS_Store
+.idea/
+*.iml
+.vscode/
+P2P_Index/
+P2P_Shared/
